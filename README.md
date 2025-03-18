@@ -34,8 +34,8 @@ We're using conda as our virtual environment management system to ensure consist
    This will open Jupyter Lab in your default web browser.
 
 2. **Navigate to the notebook**:
-   - Open `AE_lab.ipynb` from the file browser
-   - Follow the instructions in the notebook
+   - Open `AE_lab.ipynb` from the file browser.
+   - Follow the instructions in the notebook.
    
 ## Acknowledgement
 
