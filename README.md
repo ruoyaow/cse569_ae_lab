@@ -1,7 +1,7 @@
 # Adversarial Examples Lab
 
 ## Overview
-This lab introduces you to adversarial examples in machine learning - inputs specifically designed to cause AI models to make mistakes. You'll learn and try how to generate these examples. Detailed per-step instruction is provided in ```AE_lab.ipynb```.
+This lab introduces you to adversarial examples in machine learning - inputs specifically designed to cause AI models to make mistakes. You'll learn and try how to generate these examples. Detailed per-step instructions are provided in ```AE_lab.ipynb```.
 
 ## Environment Setup
 
